@@ -4,3 +4,7 @@
 * Arroz
 * Feijão
 * Macarrão
+
+  1 Leite
+  2 Café
+  3 Chá
